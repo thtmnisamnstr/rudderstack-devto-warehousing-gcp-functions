@@ -1,0 +1,8 @@
+{
+  "name": "devto-post-refresh",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.18.0",
+    "@rudderstack/rudder-sdk-node": "^1.0.1-beta.0"
+  }
+}
